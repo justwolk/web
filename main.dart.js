@@ -64475,7 +64475,7 @@ $2(a,b){return B.e.be(b,a)},
 $S:152}
 A.Zf.prototype={}
 A.F2.prototype={
-P(a){return new A.um(new A.tA(null),"\u0413\u0435\u043d\u0435\u0440\u0430\u0442\u043e\u0440",null)}}
+P(a){return new A.um(new A.tA(null),"\u0413\u0435\u043d\u0435\u0440\u0430\u0442\u043e\u0440 excel",null)}}
 A.tA.prototype={
 au(){return new A.KL([],[],A.a([],t.HZ),A.a([],t.t),A.a73(null),A.a73(null),A.a73(null),B.n)}}
 A.KL.prototype={
@@ -64487,7 +64487,7 @@ return s.gq(s)},
 uu(){var s=0,r=A.af(t.N),q
 var $async$uu=A.ag(function(a,b){if(a===1)return A.ac(b,r)
 while(true)switch(s){case 0:s=3
-return A.as($.QU().a7Y("lib/json.json"),$async$uu)
+return A.as($.QU().a7Y("lib/TableData.json"),$async$uu)
 case 3:q=b
 s=1
 break
