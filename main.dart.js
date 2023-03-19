@@ -64475,7 +64475,7 @@ $2(a,b){return B.e.be(b,a)},
 $S:152}
 A.Zf.prototype={}
 A.F2.prototype={
-P(a){return new A.um(new A.tA(null),"CSV Demo",null)}}
+P(a){return new A.um(new A.tA(null),"\u0413\u0435\u043d\u0435\u0440\u0430\u0442\u043e\u0440",null)}}
 A.tA.prototype={
 au(){return new A.KL([],[],A.a([],t.HZ),A.a([],t.t),A.a73(null),A.a73(null),A.a73(null),B.n)}}
 A.KL.prototype={
